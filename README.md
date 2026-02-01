@@ -71,6 +71,6 @@ You are free to use, modify, and share this project with proper attribution.
 ---
 
 ## 👋 About Me
-More of my work: github.com/juraylabs
+More of my work: [github.com/juraylabs](https://github.com/juraylabs)
 
 
