@@ -71,14 +71,6 @@ You are free to use, modify, and share this project with proper attribution.
 ---
 
 ## 👋 About Me
-
-I am a **Technical Program Manager** with a strong passion for **data and analytics**, known for translating complex data and technical concepts into clear, actionable insights that support business decision-making.
-
-I enjoy working at the intersection of:
-- Data engineering and analytics
-- Systems and process design
-- Business and stakeholder problem-solving
-
-This repository is part of my **continuous learning and practice**, where I strengthen my hands-on data warehousing and analytics skills outside of my day-to-day work. It reflects my curiosity, technical rigor, and commitment to building and experimenting regularly.
+More of my work: github.com/juraylabs
 
 
